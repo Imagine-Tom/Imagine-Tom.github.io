@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.0d227be9.css",
+    "main.js": "/static/js/main.97768c0e.js",
+    "static/media/parallax-bg.gif": "/static/media/parallax-bg.a753668321d10848110d.gif",
+    "index.html": "/index.html",
+    "main.0d227be9.css.map": "/static/css/main.0d227be9.css.map",
+    "main.97768c0e.js.map": "/static/js/main.97768c0e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0d227be9.css",
+    "static/js/main.97768c0e.js"
+  ]
+}
